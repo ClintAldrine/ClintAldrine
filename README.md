@@ -1,16 +1,48 @@
-## Hi there 👋
+ ------------------------------------------------------
+               CLINT ALDRINE BEATO
 
-<!--
-**ClintAldrine/ClintAldrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      IT Support • Computer Technician • BSIT
 
-Here are some ideas to get you started:
+       [ Download Resume ]   [ Contact Me ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------------
+
+About Me
+
+--------------------------------------------------------
+
+Technical Skills
+
+🖥 Computer Repair
+🌐 Networking
+💻 Windows Installation
+🖨 Printer Repair
+📄 Microsoft Office
+
+--------------------------------------------------------
+
+Work Experience
+
+🏢 J&T Express
+
+🖥 Owner - Computer Shop
+
+📈 D1 Legacy
+
+--------------------------------------------------------
+
+Projects
+
+Inventory System
+
+Computer Shop Website
+
+Network Setup
+
+--------------------------------------------------------
+
+Contact
+
+Email
+
+Facebook
