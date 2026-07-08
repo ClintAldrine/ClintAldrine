@@ -13,8 +13,8 @@
 
     <p>
         📍 San Isidro, Rodriguez, Rizal <br>
-        📞 09XXXXXXXXX <br>
-        📧 youremail@gmail.com
+        📞 09267606022<br>
+        📧 clintbeato@gmail.com
     </p>
 
     <hr>
